@@ -133,6 +133,9 @@ body {
   cursor: pointer;
   color: black;
 }
+.link:hover{
+  cursor: pointer;
+}
 .project{
   margin-bottom: 2rem;
 }
